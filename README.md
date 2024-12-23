@@ -1,4 +1,4 @@
-# ERD Database Project
+# Pku - Shop (Ecommerce)
 
 ## Team Members
 - TIO MARIANA
