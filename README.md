@@ -11,7 +11,7 @@
 This repository contains the Entity-Relationship Diagram (ERD) for our database project. The diagram visualizes the structure and relationships between tables used in the database.
 
 ## ERD Diagram
-![ERD Diagram](./diagram.png)
+![ERD Diagram](./public/diagram.png)
 
 ## Relationships
 1. **Users ↔ Carts**: One-to-Many relationship (1 user can have multiple carts).
