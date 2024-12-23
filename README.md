@@ -56,6 +56,19 @@ This project is an **e-commerce platform (Pku-Shop)** designed to manage product
 
 ### Clone the repository
 
-```bash
+```bash 
 git clone https://github.com/irawidyasrirezeki/pku-shop.git
-cd Pku-shop
+```
+### Install Depedencies 
+```bash
+composer install
+```
+
+### Setup Database
+Database Name
+
+### Run Server 
+```bash
+php artisan serve
+php artisan storage:link
+```
