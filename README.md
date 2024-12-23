@@ -51,3 +51,11 @@ This project is an **e-commerce platform (Pku-Shop)** designed to manage product
 ![Home Screen](./app/2.jpg)
 ![Product](./database/3.jpg)
 ![Dashboard](./database/4.jpg)
+
+## Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/irawidyasrirezeki/pku-shop.git
+cd Pku-shop
