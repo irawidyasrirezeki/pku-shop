@@ -20,3 +20,9 @@ This repository contains the Entity-Relationship Diagram (ERD) for our database 
 4. **Users ↔ Orders**: One-to-Many relationship (1 user can place multiple orders).
 5. **Users ↔ Wishlists**: One-to-Many relationship (1 user can have multiple wishlist items).
 6. **Products ↔ Wishlists**: One-to-Many relationship (1 product can appear in multiple wishlists).
+
+## Screenshoot Program
+![Home Screen](./app/1.jpg)
+![Home Screen](./app/2.jpg)
+![Product](./database/3.jpg)
+![Dashboard](./database/4.jpg)
