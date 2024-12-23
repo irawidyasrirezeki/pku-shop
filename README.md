@@ -22,7 +22,7 @@ This repository contains the Entity-Relationship Diagram (ERD) for our database 
 6. **Products ↔ Wishlists**: One-to-Many relationship (1 product can appear in multiple wishlists).
 
 ## Program Description
-This project is an **e-commerce platform** designed to manage products, users, and transactions efficiently. The key functionalities include:
+This project is an **e-commerce platform (Pku-Shop)** designed to manage products, users, and transactions efficiently. The key functionalities include:
 
 1. **Banner Management (`banners` table)**  
    Used to display promotional banners on the website. Admins can activate or deactivate banners and associate them with images and descriptions.
